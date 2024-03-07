@@ -32,3 +32,5 @@ jobs:
         run: npm run build
       - name: Deploy code
         run: echo "Deploying..."
+      - name: print echo
+        run: echo "hiiii"   
