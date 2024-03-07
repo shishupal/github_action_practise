@@ -33,4 +33,4 @@ jobs:
       - name: Deploy code
         run: echo "Deploying..."
       - name: print echo
-        run: echo "hiiii"   
+        run: echo "hii"   
