@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build code
-        run: npm run build
+        run: echo "hello"
       - name: Deploy code
         run: |
           node -v
